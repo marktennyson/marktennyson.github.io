@@ -3,7 +3,7 @@ github description
 
 List of all projects :
 
-* [Flask-Mailing](github.com/marktennyson/flask-mailing)
-* [Flask-Tortoise](github.com/marktennyson/flask-tortoise)
-* [Flask-Express](github.com/marktennyson/flask-express)
-* [Fastapi_mailman](github.com/marktennyson/fastapi-mailman)
+* [Flask-Mailing](https://github.com/marktennyson/flask-mailing)
+* [Flask-Tortoise](https://github.com/marktennyson/flask-tortoise)
+* [Flask-Express](https://github.com/marktennyson/flask-express)
+* [Fastapi_mailman](https://github.com/marktennyson/fastapi-mailman)
